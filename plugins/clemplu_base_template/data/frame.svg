@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="auroraGrad" x1="16" y1="16" x2="240" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4FF3FF"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#00FFA3"/>
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="113" stroke="url(#auroraGrad)" stroke-width="15"/>
+  <circle cx="128" cy="128" r="123" stroke="#E0F7FF" stroke-opacity="0.65" stroke-width="2.5" stroke-dasharray="22 10"/>
+  <circle cx="128" cy="128" r="103" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="2"/>
+  <circle cx="128" cy="12" r="7" fill="#4FF3FF"/>
+  <circle cx="128" cy="244" r="7" fill="#00FFA3"/>
+  <circle cx="12" cy="128" r="7" fill="#A855F7"/>
+  <circle cx="244" cy="128" r="7" fill="#4FF3FF"/>
+</svg>
