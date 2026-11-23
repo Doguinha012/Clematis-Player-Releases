@@ -1,0 +1,12 @@
+{
+  "id": "clematis.community.base_frame",
+  "name": "Plugin Base Clematis (Moldura Aurora)",
+  "version": "1.0.0",
+  "author": "Clematis Community",
+  "description": "Modelo oficial de plugin declarativo .clemplu para o Clematis Player. Adiciona a moldura de perfil 'Aurora Comunitária' na Loja de Molduras sem executar código arbitrário.",
+  "minClematisVersion": "0.7.1",
+  "icon": "icon.svg",
+  "capabilities": [
+    "profile_frame"
+  ]
+}
