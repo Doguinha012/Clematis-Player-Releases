@@ -1,0 +1,8 @@
+{
+  "id": "aurora_community",
+  "name": "Aurora Comunitária (Plugin Base)",
+  "description": "Moldura SVG declarativa fornecida pelo plugin modelo .clemplu do Clematis.",
+  "image": "frame.svg",
+  "pricePoints": 0,
+  "accentColor": 4289222143
+}
